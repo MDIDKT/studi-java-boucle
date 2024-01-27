@@ -32,4 +32,15 @@ public class StringUtils {
     public static boolean isPalindrome(String prenom, String nom) {
         return false;
     }
+
+    // premiere ecriture
+    // preparation des donnees
+    prenom = prenom.toLowerCase();
+    nom = nom.toLowerCase()
+    String prenom_reverse = "";
+    boolean result = true;
+    // Leon `$^ùù==:;&é"'(§§èç!àçà)à)-)--@@@@@@######???••••@@@@@!!!_°098761¨*£%£/+/.?######W#&&&&&øøøøøøø000000øøøøøøøøààààà
+    // accès a une lettre qui n'existe pas
+    for(int i = prenoim.length() -1)
+
 }
